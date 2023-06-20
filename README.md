@@ -41,7 +41,7 @@ The main problem I encounter trying to convert my code to `Composition API` is t
 Clone the repository and install the dependencies
 
 ```sh
-$ git clone https://github.com/supershaneski/vue-quiz-app.git myproject
+$ git clone https://github.com/DynastyElvis/quiz-app myproject
 
 $ cd myproject
 
