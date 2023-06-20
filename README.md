@@ -12,19 +12,6 @@ This is purely a coding exercise meant to refresh my knowledge of `Vue`.
 From the last time I tried `Vue`, there seems to be significant changes in how things are done that [made some developers upset](https://www.reddit.com/r/vuejs/comments/pmpmot/rant_how_vue_3_drove_me_away/).
 
 
-# Development
-
-I will be using the following modules:
-
-* [Pinia 2](https://pinia.vuejs.org/introduction.html), for global app state management
-* [Vue Router 4](https://router.vuejs.org/installation.html), for router
-
-At this point, I have not made my mind yet on how to best implement a quiz app.
-Perhaps a simple SPA would suffice and there is no need for a router.
-But since this is more of a refresher for `Vue`, using as many standard modules is probably better for practice.
-
-I mainly reused the generated code, files and styling from the build setup using `Vite` such that my `Pinia` store is still named as `counter.js`.
-
 
 ## The App
 
